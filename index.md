@@ -1,4 +1,9 @@
-# Kenan Medzikovic
+---
+layout: default
+title: Startseite
+---
+
+# 👋 Kenan Medzikovic
 
 ## Über mich
 
